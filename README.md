@@ -29,7 +29,7 @@ This project is a simple URL shortener built with **Next.js**, **MongoDB**, and 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/short-url.git
+git clone https://github.com/nimesh-piyumal/short-url.git
 cd short-url
 ```
 
@@ -99,4 +99,4 @@ Feel free to fork the repository and submit issues or pull requests. Any contrib
 License
 -------
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE]() file for details.
